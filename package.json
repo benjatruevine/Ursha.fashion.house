@@ -1,0 +1,11 @@
+{
+  "name": "ursha-fashion-house",
+  "version": "1.0.0",
+  "private": true,
+  "description": "URSHA Fashion House — premium men's & women's fashion boutique demo (static HTML/CSS/JS)",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "check": "node --check js/main.js && node --check server.js"
+  }
+}
